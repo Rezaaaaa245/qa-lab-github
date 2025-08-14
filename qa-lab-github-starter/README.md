@@ -2,7 +2,7 @@
 
 Petit projet pour le laboratoire d’assurance qualité logiciel.
 
-- **Auteur** : Hanane Khenteur
+- **Auteur** : Reza Ait dib
 - **Licence** : MIT (voir fichier `LICENSE`)
 
 ## Site web (GitHub Pages)
