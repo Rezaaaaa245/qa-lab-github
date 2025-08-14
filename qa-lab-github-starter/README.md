@@ -12,3 +12,5 @@ Petit projet pour le laboratoire d’assurance qualité logiciel.
 - `index.html` : page d’accueil avec mon nom
 - `LICENSE` : licence MIT
 - `README.md` : description rapide du projet
+## Site web (GitHub Pages)
+➡️ https://rezaaaaa245.github.io/qa-lab-github/
